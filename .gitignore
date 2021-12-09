@@ -58,10 +58,10 @@ typings/
 .env
 
 # Transpiled JavaScript files from Typescript
-/dist
+#quite el dist
 
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
 
 # Conection with data base
-src/datasources/mongo.datasource.ts
+#quite el src mongo
